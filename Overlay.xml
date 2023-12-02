@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="LevelUp" value="<style name='ShadowedHeading' color='GUI/Blue'/>Subir de Nível"/>
+    <entry name="Overwatch" value="<style name='ShadowedHeading'/><icon height='20' texture='Icons/Actions/Overwatch'/> Observar"/>
+    <entry name="Rallied" value="<style name='ShadowedHeading' color='GUI/Turquoise'/>Agrupado"/>
+    <entry name="Unleashed" value="<style name='ShadowedHeading'/>Liberado"/>
+</language>
+

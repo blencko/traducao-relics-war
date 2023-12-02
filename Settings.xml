@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="Audio" value="Áudio"/>
+    <entry name="Audio/AmbientVolume" value="Volume Ambiente"/>
+    <entry name="Audio/AmbientVolumeHint" value="Regula o volume ambiente."/>
+    <entry name="Audio/CinematicVolume" value="Volume Cinemático"/>
+    <entry name="Audio/CinematicVolumeHint" value="Regula o volume das cenas cinematográficas."/>
+    <entry name="Audio/EffectVolume" value="Volume de Efeitos"/>
+    <entry name="Audio/EffectVolumeHint" value="Regula o volume dos efeitos sonoros."/>
+    <entry name="Audio/HRTF" value="HRTF"/>
+    <entry name="Audio/HRTFHint" value="Solicita a mistura usando uma Função de Transferência Relativa à Cabeça, ou HRTF.<br/><br/>HRTF pode fornecer uma acuidade espacial melhor ao usar fones de ouvido, usando filtros especiais projetados para replicar como os sons são afetados pela forma da cabeça do ouvinte à medida que chegam de uma direção específica.<br/><br/>Solicitar a mistura HRTF pode fazer com que o AL reconfigure o dispositivo para um modo de saída específico e restrinja os valores de frequência utilizáveis.<br/><br/><style color='GUI/Yellow'/>Um aviso: embora o HRTF possa ter um ótimo som com fones de ouvido, pode resultar em um aumento no uso de recursos e pode não soar muito bem com alto-falantes comuns, especialmente se o usuário tiver saída de som surround."/>
+    <entry name="Audio/InterfaceVolume" value="Volume da Interface"/>
+    <entry name="Audio/InterfaceVolumeHint" value="Regula o volume da interface do usuário."/>
+    <entry name="Audio/MasterVolume" value="Volume Mestre"/>
+    <entry name="Audio/MasterVolumeHint" value="Regula o volume mestre."/>
+    <entry name="Audio/MusicVolume" value="Volume da Música"/>
+    <entry name="Audio/MusicVolumeHint" value="Regula o volume da música."/>
+    <entry name="Audio/OutputDevice" value="Dispositivo de Saída"/>
+    <entry name="Audio/OutputDeviceHint" value=""/>
+    <entry name="Audio/VoiceVolume" value="Volume da Voz"/>
+    <entry name="Audio/VoiceVolumeHint" value="Regula o volume das vozes."/>
+    <entry name="Controls" value="Controles"/>
+    <entry name="Controls/Cancel" value="Cancelar"/>
+    <entry name="Controls/Cargo0" value="Carga 1"/>
+    <entry name="Controls/Cargo1" value="Carga 2"/>
+    <entry name="Controls/Cargo2" value="Carga 3"/>
+    <entry name="Controls/Cargo3" value="Carga 4"/>
+    <entry name="Controls/Cargo4" value="Carga 5"/>
+    <entry name="Controls/Cargo5" value="Carga 6"/>
+    <entry name="Controls/Cargo6" value="Carga 7"/>
+    <entry name="Controls/Cargo7" value="Carga 8"/>
+    <entry name="Controls/Cargo8" value="Carga 9"/>
+    <entry name="Controls/Cargo9" value="Carga 10"/>
+    <entry name="Controls/Chat" value="Chat"/>
+    <entry name="Controls/ForceEndTurn" value="Forçar Fim de Turno"/>
+    <entry name="Controls/MarkTile" value="Marcar Tile"/>
+    <entry name="Controls/NextMusicTrack" value="Próxima Faixa de Música"/>
+    <entry name="Controls/NextTask" value="Próxima Tarefa"/>
+    <entry name="Controls/OK" value="OK"/>
+    <entry name="Controls/OpenCompendiumScreen" value="Abrir Tela do Compendium"/>
+    <entry name="Controls/OpenQuestsScreen" value="Abrir Tela de Missões"/>
+    <entry name="Controls/OpenResearchScreen" value="Abrir Tela de Pesquisa"/>
+    <entry name="Controls/PlayerAction0" value="Ação do Jogador 1"/>
+    <entry name="Controls/PlayerAction1" value="Ação do Jogador 2"/>
+    <entry name="Controls/PlayerAction2" value="Ação do Jogador 3"/>
+    <entry name="Controls/PlayerAction3" value="Ação do Jogador 4"/>
+    <entry name="Controls/PlayerAction4" value="Ação do Jogador 5"/>
+    <entry name="Controls/PlayerAction5" value="Ação do Jogador 6"/>
+    <entry name="Controls/PlayerAction6" value="Ação do Jogador 7"/>
+    <entry name="Controls/PlayerAction7" value="Ação do Jogador 8"/>
+    <entry name="Controls/PlayerAction8" value="Ação do Jogador 9"/>
+    <entry name="Controls/PlayerAction9" value="Ação do Jogador 10"/>
+	<entry name="Controls/QuickLoad" value="Carregar Rápido"/>
+	<entry name="Controls/QuickSave" value="Salvar Rápido"/>
+	<entry name="Controls/ReloadModifiedResources" value="Recarregar Recursos Modificados"/>
+	<entry name="Controls/SaveJPGScreenShot" value="Salvar Captura de Tela em JPG"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Salvar Captura de Tela em JPG Sem HUD"/>
+	<entry name="Controls/SavePNGScreenShot" value="Salvar Captura de Tela em PNG"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Salvar Captura de Tela em PNG Sem HUD"/>
+	<entry name="Controls/ScrollDown" value="Rolar para Baixo"/>
+	<entry name="Controls/ScrollLeft" value="Rolar para a Esquerda"/>
+	<entry name="Controls/ScrollRight" value="Rolar para a Direita"/>
+	<entry name="Controls/ScrollUp" value="Rolar para Cima"/>
+	<entry name="Controls/SelectNext" value="Selecionar Próximo"/>
+	<entry name="Controls/SelectPrevious" value="Selecionar Anterior"/>
+	<entry name="Controls/ToggleDebugPanel" value="Alternar Painel de Depuração"/>
+	<entry name="Controls/ToggleDisplayMode" value="Alternar Modo de Exibição"/>
+	<entry name="Controls/ToggleFPSDisplay" value="Alternar Exibição de FPS"/>
+	<entry name="Controls/ToggleHUD" value="Alternar HUD"/>
+	<entry name="Controls/ToggleLoadScreen" value="Alternar Tela de Carregamento"/>
+	<entry name="Controls/ToggleMixerPanel" value="Alternar Painel de Mixer"/>
+	<entry name="Controls/ToggleSaveScreen" value="Alternar Tela de Salvamento"/>
+	<entry name="Controls/ToggleSettingsScreen" value="Alternar Tela de Configurações"/>
+	<entry name="Controls/ToggleStatsPanel" value="Alternar Painel de Estatísticas"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Alternar Sobreposição de Unidade"/>
+	<entry name="Controls/ToggleYieldOverlay" value="Alternar Sobreposição de Rendimento"/>
+	<entry name="Controls/UnitAction0" value="Ação de Unidade 1"/>
+	<entry name="Controls/UnitAction1" value="Ação de Unidade 2"/>
+	<entry name="Controls/UnitAction2" value="Ação de Unidade 3"/>
+	<entry name="Controls/UnitAction3" value="Ação de Unidade 4"/>
+	<entry name="Controls/UnitAction4" value="Ação de Unidade 5"/>
+	<entry name="Controls/UnitAction5" value="Ação de Unidade 6"/>
+	<entry name="Controls/UnitAction6" value="Ação de Unidade 7"/>
+	<entry name="Controls/UnitAction7" value="Ação de Unidade 8"/>
+	<entry name="Controls/UnitAction8" value="Ação de Unidade 9"/>
+	<entry name="Controls/UnitAction9" value="Ação de Unidade 10"/>
+	<entry name="Controls/UnitAction10" value="Ação de Unidade 11"/>
+	<entry name="Controls/UnitAction11" value="Ação de Unidade 12"/>
+	<entry name="Controls/UnitAction12" value="Ação de Unidade 13"/>
+	<entry name="Controls/UnitAction13" value="Ação de Unidade 14"/>
+	<entry name="Controls/UnitAction14" value="Ação de Unidade 15"/>
+	<entry name="Controls/UnitItem0" value="Item de Unidade 1"/>
+	<entry name="Controls/UnitItem1" value="Item de Unidade 2"/>
+	<entry name="Controls/UnitItem2" value="Item de Unidade 3"/>
+	<entry name="Controls/UnitItem3" value="Item de Unidade 4"/>
+	<entry name="Controls/UnitItem4" value="Item de Unidade 5"/>
+	<entry name="Controls/UnitItem5" value="Item de Unidade 6"/>
+	<entry name="Controls/UnitItem6" value="Item de Unidade 7"/>
+	<entry name="Controls/UnitItem7" value="Item de Unidade 8"/>
+	<entry name="Controls/UnitItem8" value="Item de Unidade 9"/>
+	<entry name="Controls/UnitItem9" value="Item de Unidade 10"/>
+	<entry name="General" value="Geral"/>
+	<entry name="General/AnimationSpeed" value="Velocidade da Animação"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Auto-Alternar Unidades"/>
+	<entry name="General/AutoCycleUnitsHint" value="Alternar automaticamente para a próxima unidade inativa."/>
+	<entry name="General/AutoSendReports" value="Enviar Estatísticas de Uso e Relatórios de Erros Automaticamente"/>
+	<entry name="General/AutoSendReportsHint" value="Enviar automaticamente estatísticas de uso e relatórios de erros para a Proxy Studios para ajudar a melhorar as características, estabilidade e desempenho do jogo.<br/><br/><style color='GUI/Yellow'/>A privacidade é importante para nós. Procuramos coletar apenas o necessário para melhorar o jogo para todos. Os dados coletados incluem interações anonimizadas com o jogo (como número de tentativas e falhas de conexão multiplayer, tipos de jogos iniciados, recursos usados, botões clicados e tempo de jogo) e informações técnicas anonimizadas (como versão do jogo e idioma, sistema operacional e configuração de hardware, e informações básicas sobre falhas e erros). Esses dados são processados de acordo com o interesse legítimo de fornecer um produto de alta qualidade e confiável; eles são armazenados por até 1 ano e nunca compartilhados com terceiros."/>
+	<entry name="General/Language" value="Idioma"/>
+	<entry name="General/LanguageHint" value="Especifica o idioma escrito.<br/><br/><style color='GUI/Red'/>A alteração desta configuração requer reiniciar o jogo para ter efeito."/>
+	<entry name="General/ResetTips" value="Redefinir Dicas"/>
+	<entry name="General/ResetTipsHint" value="Redefinir as dicas do jogo para que sejam exibidas novamente."/>
+	<entry name="General/ScrollAcceleration" value="Aceleração de Rolagem"/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Velocidade de Rolagem"/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Rolar Automaticamente para a Ação"/>
+	<entry name="General/ScrollToActionHint" value="A câmera rola automaticamente para qualquer ação durante a vez da IA."/>
+	<entry name="General/ShowBarks" value="Mostrar Comandos de Unidades"/>
+	<entry name="General/ShowBarksHint" value="Exibir comandos de unidades."/>
+	<entry name="General/ShowCinematics" value="Mostrar Cenas Cinemáticas"/>
+	<entry name="General/ShowCinematicsHint" value="Exibir cenas cinemáticas."/>
+	<entry name="General/ShowPerformance" value="Mostrar Desempenho"/>
+	<entry name="General/ShowPerformanceHint" value="Exibir informações de desempenho."/>
+	<entry name="General/ShowSubtitles" value="Mostrar Legendas"/>
+	<entry name="General/ShowSubtitlesHint" value="Exibir legendas na parte inferior de cenas cinemáticas que traduzem ou transcrevem o diálogo e a narrativa."/>
+	<entry name="General/ShowTips" value="Mostrar Dicas"/>
+	<entry name="General/ShowTipsHint" value="Exibir dicas úteis do jogo."/>
+	<entry name="Network" value="Rede"/>
+	<entry name="Network/ListenPort" value="Porta de Escuta"/>
+	<entry name="Network/ListenPortHint" value="A porta TCP local a ser usada ao hospedar um jogo multiplayer.<br/><br/><style color='GUI/Yellow'/>Se você encontrar problemas de conexão, certifique-se de permitir esta porta em seu firewall e encaminhá-la para a máquina que está executando o jogo em seu roteador. Pesquise na internet por 'Encaminhamento de Porta' para obter instruções para o seu roteador."/>
+	<entry name="Network/PreferRelayedData" value="Preferir Dados Relacionados"/>
+	<entry name="Network/PreferRelayedDataHint" value="Em vez de se conectar diretamente ao host, transmita todos os dados por meio de um servidor de retransmissão, se disponível.<br/><br/>Isso aumentará a latência de rede.<br/><br/>Quando desativado, os dados ainda são transmitidos se a conexão direta inicial falhar.<br/><br/><style color='GUI/Yellow'/>Use apenas se estiver enfrentando problemas de conexão e não puder resolvê-los de outra forma."/>
+	<entry name="Network/RemoteAddress" value="Endereço Remoto"/>
+	<entry name="Network/RemotePort" value="Porta Remota"/>
+	<entry name="Video" value="Vídeo"/>
+	<entry name="Video/AnisotropicFiltering" value="Filtro Anisotrópico"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Brilho"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Sombras de Nuvens"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Contraste"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Neblina de Profundidade"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Profundidade de Campo"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/Device" value="Dispositivo"/>
+	<entry name="Video/DeviceHint" value=""/>
+	<entry name="Video/DisplayMode" value="Modo de Exibição"/>
+	<entry name="Video/DisplayMode0" value="Tela Cheia"/>
+	<entry name="Video/DisplayMode1" value="Janela"/>
+	<entry name="Video/DisplayMode2" value="Janela Sem bordas"/>
+	<entry name="Video/DisplayModeHint" value="Permite alterar o modo de exibição do jogo. Modos em janela podem causar uma queda no desempenho.<br/><br/><style color='GUI/Yellow'/>O modo em janela pode funcionar melhor para gravação na resolução nativa."/>
+	<entry name="Video/FixedTimeOfDay" value="Hora do Dia Fixa"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Hora do Dia Fixa às"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Anti-Aliasing"/>
+	<entry name="Video/FXAAHint" value="Reduz o serrilhado suavizando as bordas com FXAA, mas pode reduzir o desempenho. Dependente da capacidade de processamento de sua placa gráfica."/>
+	<entry name="Video/Gamma" value="Gama"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/GUIScale" value="Escala da GUI"/>
+	<entry name="Video/GUIScaleCustom" value="Personalizada: %1%%%"/>
+	<entry name="Video/GUIScaleHint" value="Escala a interface gráfica do usuário."/>
+	<entry name="Video/MaxFocusedTickrate" value="FPS Máximo Focado"/>
+	<entry name="Video/MaxFocusedTickrateHint" value=""/>
+	<entry name="Video/MaxMinimizedTickrate" value="FPS Máximo Minimizado"/>
+	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
+	<entry name="Video/MaxUnfocusedTickrate" value="FPS Máximo Desfocado"/>
+	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
+	<entry name="Video/Monitor" value="Monitor"/>
+	<entry name="Video/MonitorHint" value=""/>
+	<entry name="Video/MultiThreadedRendering" value="Renderização Multi-Threaded"/>
+	<entry name="Video/MultiThreadedRenderingHint" value="Usa vários núcleos da CPU para renderização, o que pode aumentar o desempenho. Desativar esta configuração pode remover artefatos visuais potenciais."/>
+	<entry name="Video/Resolution" value="Resolução"/>
+	<entry name="Video/ResolutionHint" value="Permite alterar a resolução de exibição do jogo. Resoluções mais altas resultarão em maior clareza, mas afetarão significativamente o desempenho."/>
+	<entry name="Video/ShadowQuality" value="Qualidade das Sombras"/>
+	<entry name="Video/ShadowQuality0" value="Baixa"/>
+	<entry name="Video/ShadowQuality1" value="Média"/>
+	<entry name="Video/ShadowQuality2" value="Alta"/>
+	<entry name="Video/ShadowQualityHint" value="Determina o tamanho do mapa de sombras usado para renderizar sombras. Uma qualidade de sombra mais alta resultará em sombras mais detalhadas, mas requer uma placa gráfica mais potente."/>
+	<entry name="Video/ShowCliffHighlights" value="Mostrar Destaques em Penhascos"/>
+	<entry name="Video/ShowCliffHighlightsHint" value="Exibir linhas tracejadas para destacar penhascos."/>
+	<entry name="Video/ShowGrid" value="Mostrar Grade"/>
+	<entry name="Video/ShowGridHint" value="Exibir a grade do solo."/>
+	<entry name="Video/TextureQuality" value="Qualidade da Textura"/>
+	<entry name="Video/TextureQuality0" value="Baixa"/>
+	<entry name="Video/TextureQuality1" value="Média"/>
+	<entry name="Video/TextureQuality2" value="Alta"/>
+	<entry name="Video/TextureQualityHint" value="Determina o tamanho das texturas usadas em todo o jogo. Uma qualidade de textura mais alta resultará em terrenos e unidades mais detalhados, mas requer mais memória de vídeo (VRAM).<br/><br/>Baixa: 1 GB<br/>Média: 2 GB<br/>Alta: 3 GB"/>
+	<entry name="Video/VerticalSynchronization" value="Sincronização Vertical"/>
+	<entry name="Video/VerticalSynchronization-1" value="Adaptativa"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Nenhuma"/>
+	<entry name="Video/VerticalSynchronization1" value="Regular"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Sincroniza a taxa de quadros à taxa de atualização do seu monitor."/>
+	<entry name="World" value="Mundo"/>
+
+</language>
